@@ -1,5 +1,5 @@
 # SnowProject
-# Project 1: SnowProject
+# Project 2: SnowProject
 
 * Teacher Author: Pluska
 * Author: Brandon Chacon
@@ -36,5 +36,5 @@ Made the code repeat in set intervals
 
 ## Sources used
 
-https://www.w3schools.com/graphics/canvas_drawing.asp
+https://www.w3schools.com/graphics/canvas_drawing.asp // 
 https://www.w3schools.com/jsref/met_win_setinterval.asp
