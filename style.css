@@ -1,0 +1,11 @@
+#canvas{
+
+    border:solid 1px black;
+    background-color: rgb(158, 206, 211);
+}
+
+.animation {
+    animation-name: example;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
